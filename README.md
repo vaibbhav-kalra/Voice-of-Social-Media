@@ -1,5 +1,5 @@
 # Voice-of-Social-Media
-PGDM Financial Engineering
+
 
 Required packages:
 
@@ -41,4 +41,20 @@ Files to Run:
 voice_of_social_media.py
 
 dashboard
+
+Required pre-work:
+
+Twitter developer account
+
+Create an app using twitter developer account to extract tweets
+
+Note down the following keys and use it in python to extract tweets:
+
+consumer_key = 'xxxx'
+
+consumer_secret = 'xxxx'
+
+access_key= 'xxxx'
+
+access_secret = 'xxxx'
 
