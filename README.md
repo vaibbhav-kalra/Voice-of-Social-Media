@@ -65,3 +65,5 @@ access_key= 'xxxx'
 
 access_secret = 'xxxx'
 
+We took some help for the code to extract tweets from,
+https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf
