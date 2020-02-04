@@ -18,10 +18,10 @@ app = Flask(__name__)
 @app.route('/success/<name>')
 def success(name):
     #Twitter credentials for the app
-    consumer_key = 'mpWABFNbGdp3ghEiUufVPEMmZ'
-    consumer_secret = 'W2w3as3aHBKdp8OHRpiTiqUOggx6hpb1e9cbUdsstqEUVU7OgW'
-    access_key= '336559212-WkfcPWhn8AI4uLi1ZsdORpDtatyp1sM5kO57dIxr'
-    access_secret = '0BvYifnGpzC3ADGsl7uan1WACvon4c39RFMiWk6i7Y3c9'
+    consumer_key = 'xxxx'
+    consumer_secret = 'xxxx'
+    access_key= 'xxxx'
+    access_secret = 'xxxx'
     #pass twitter credentials to tweepy
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_key, access_secret)
